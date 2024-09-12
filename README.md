@@ -20,8 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=firdausattalea&show_icons=true&locale=en" alt="firdausattalea" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=firdausattalea&" alt="firdausattalea" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=firdausattalea&show_icons=true&locale=en" alt="firdausattalea" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=firdausattalea&" alt="firdausattalea" /></p>
