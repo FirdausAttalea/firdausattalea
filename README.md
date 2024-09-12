@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jacques+Francois+Shadow&size=30&duration=5500&pause=1000&color=D600FF&background=FF0D0000&center=true&width=435&lines=Welkom+bij+Mijn+Dashboard!+%E3%83%84;Ik+ben+van+de+faculteit+Informatica+%3E%3C;Aangenaam+kennis+te+maken++(%E2%80%A2%CC%80%E1%B4%97%E2%80%A2%CC%81)%D9%88+%CC%91%CC%91" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jacques+Francois+Shadow&size=25&duration=5500&pause=1000&color=D600FF&background=FF0D0000&vCenter=true&width=435&lines=Welkom+bij+Mijn+Dashboard!+%E3%83%84;Ik+ben+van+de+faculteit+Informatica+%3E%3C;Aangenaam+kennis+te+maken++(%E2%80%A2%CC%80%E1%B4%97%E2%80%A2%CC%81)%D9%88+%CC%91%CC%91" alt="Typing SVG" /></a>
 
 
 <h1 align="center">Hi 👋, I'm Firdaus Attalea</h1>
