@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Firdaus Attalea</h1>
-<h3 align="center">I'm a newcomer to the world of Android development, excited to learn and grow in this dynamic field. Currently exploring Java/Kotlin and the Android SDK to build my recently apps. Always eager to collaborate and learn from the community. Let's code and create together!</h3>
+<p align="center">I'm a newcomer to the world of Android development, excited to learn and grow in this dynamic field. Currently exploring Java/Kotlin and the Android SDK to build my recently apps. Always eager to collaborate and learn from the community. Let's code and create together!</p>
 
 - 🌱 I’m currently learning **Android & PHP**
 
