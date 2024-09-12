@@ -1,9 +1,9 @@
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jacques+Francois+Shadow&size=25&duration=5500&pause=1000&color=D600FF&background=FF0D0000&vCenter=true&width=435&lines=Welkom+bij+Mijn+Dashboard!+%E3%83%84;Ik+ben+van+de+faculteit+Informatica+%3E%3C;Aangenaam+kennis+te+maken++(%E2%80%A2%CC%80%E1%B4%97%E2%80%A2%CC%81)%D9%88+%CC%91%CC%91" alt="Typing SVG" /></a></p>
 
-<p align="center">I'm a newcomer to the world of Android development, excited to learn and grow in this dynamic field. Currently exploring Java/Kotlin and the Android SDK to build my recently apps. Always eager to collaborate and learn from the community. Let's code and create together!</p>
+<p align="justify">Hello Everyone👋. My Name ${\color{fuchsia}Firdaus \space \color{fuchsia}Attalea}$ , people usually call me ${\color{fuchsia}Aye}$. I'm a newcomer to the world of Android development, excited to learn and grow in this dynamic field. Currently exploring Java/Kotlin and the Android SDK to build my recently apps.Currently studied at Brawijaya University especially Information System Degree since 2022. Always eager to collaborate and learn from the community. Let's code and create together!</p>
+- 🌱 I’m currently learning <strong>Android & PHP</strong>
 
-- 🌱 I’m currently learning **Android & PHP**
-
+<h1 dir="auto"></h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/firdausattalea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="firdausattalea" height="30" width="40" /></a>
@@ -11,19 +11,28 @@
 <a href="https://discord.gg/yee#5206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yee#5206" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+<h1 dir="auto"></h1>
+<h3 align="left" > Language: </p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,kotlin,java,html,js,laravel, " />
+  </a>
+</p>
 
 
-
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
+<h3 align="left" > Software: </p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,figma,github,gitlab,mongodb,mysql," />
+  </a>
+</p>
+  
+<h1 dir="auto"></h1>
 <h3> My Streaks: </h3>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FirdausAttalea&theme=burnt-neon" alt="GitHub Streak" /></a>
+<br\>
 
+<h1 dir="auto"></h1>
 <h3>My Stats: </h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=firdausattalea&show_icons=true&locale=en&layout=compact" alt="firdausattalea" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=firdausattalea&show_icons=true&locale=en" alt="firdausattalea" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=firdausattalea&" alt="firdausattalea" /></p>
