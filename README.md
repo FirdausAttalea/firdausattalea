@@ -15,7 +15,7 @@
 <h3 align="left" > Language: </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,kotlin,java,html,js,laravel, " />
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,kotlin,java,html,js,laravel,react" />
   </a>
 </p>
 
