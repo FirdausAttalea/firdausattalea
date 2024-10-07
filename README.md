@@ -15,14 +15,14 @@
 <h3 align="left" > Language: </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,kotlin,java,html,js,laravel,react" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,kotlin,java,html,js,laravel,react,php" />
   </a>
 </p>
 
 
 <h3 align="left" > Software: </p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,figma,github,gitlab,mongodb,mysql," />
+    <img src="https://skillicons.dev/icons?i=git,figma,github,gitlab,mongodb,mysql" />
   </a>
 </p>
   
