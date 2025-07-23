@@ -15,7 +15,7 @@ Currently focusing at <strong>Software Engineer</strong>
 <h3 align="left" > Language: </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,kotlin,java,html,js,laravel,react,php,nextjs,vite,flutter,nodejs,typescript" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,kotlin,java,html,js,laravel,react,php,nextjs,vite,flutter,nodejs,typescript,nodejs" />
   </a>
 </p>
 
