@@ -14,39 +14,20 @@
 <h3 align="left" > Language: </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,kotlin,java,html,js,laravel,react,php,nextjs,vite,flutter,nodejs,typescript,express,vue,nest" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,kotlin,java,html,js,laravel,react,php,nextjs,vite,flutter,nodejs,typescript,express,vue,nest,golang" />
   </a>
 </p>
 
-
 <h3 align="left" > Software: </p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,figma,github,gitlab,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=git,figma,github,gitlab,mongodb,mysql,postgres" />
   </a>
 </p>
   
 <h1 dir="auto"></h1>
 <h3> My Streaks: </h3>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FirdausAttalea&theme=burnt-neon" alt="GitHub Streak" /></a>
-<br\>
-
-<h1 dir="auto"></h1>
-<h3>My Stats: </h3>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=FirdausAttalea&theme=omni&show_icons=true&hide_border=false&count_private=true"
-    media="(prefers-color-scheme: dark)"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=FirdausAttalea&theme=omni&show_icons=true&hide_border=false&count_private=true" />
-</picture>
-<br/>
-  
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FirdausAttalea&theme=omni&show_icons=true&hide_border=false&layout=compact"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirdausAttalea&theme=omni&show_icons=true&hide_border=false&layout=compact" />
-</picture>
+<br\>  
 
 <h1 dir="auto"></h1>
 
